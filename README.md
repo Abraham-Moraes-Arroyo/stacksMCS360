@@ -1,1 +1,6 @@
 # stacksMCS360
+Here is where I am going to have code that demonstrates how to:
+push values to an stack
+show the stack
+Create and use the pop() 
+How to empty the stack
